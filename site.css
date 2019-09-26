@@ -1,4 +1,7 @@
-body { background: gray
+header { background: green
+}
+footer { background: greenyellow
+
 }
 .cabeça {
     width: 960px;
@@ -12,5 +15,9 @@ body { background: gray
     float: left;
 }
 .texto {
-    display: table-cell
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-top: 150px;
+    text-align: center;
 }
