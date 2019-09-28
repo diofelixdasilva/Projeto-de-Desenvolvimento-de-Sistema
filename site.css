@@ -6,7 +6,7 @@ footer { background: greenyellow
 
 }
 .cabeça {
-    width: 960px;
+    width: 800px;
     margin: auto;
 }
 .conteudo {
@@ -17,6 +17,9 @@ footer { background: greenyellow
     float: left;
 }
 .texto {
+    text-shadow: 5px 5px 5px white;
+    height: 20px;
+    font-size: 50px;
     display: table-cell;
     float: left;
     width: 100px;
