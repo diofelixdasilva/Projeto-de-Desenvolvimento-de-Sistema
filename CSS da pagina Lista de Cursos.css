@@ -1,0 +1,25 @@
+body { background: rgb(32, 190, 85)
+}
+header { background: rgb(48, 64, 209)
+}
+footer { background: rgb(47, 255, 238)
+
+}
+.cabeça {
+    width: 960px;
+    margin: auto;
+}
+.conteudo {
+    display: table;
+}
+.imagem {
+    display: table-cell;
+    float: left;
+}
+.texto {
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-top: 150px;
+    text-align: center;
+}
