@@ -1,0 +1,47 @@
+body { background: hsl(303, 100%, 50%)
+}
+header { background: rgb(159, 66, 221)
+}
+footer { background: hsl(197, 100%, 59%)
+
+}
+.cabeça {
+    width: 800px;
+    margin: auto;
+}
+.conteudo {
+    display: table;
+}
+.imagem {
+    display: table-cell;
+    float: left;
+}
+.texto {
+    text-shadow: 5px 5px 5px white;
+    height: 20px;
+    font-size: 50px;
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-top: 150px;
+    text-align: center;
+}    
+.tableconfig {
+    background: pink;
+    margin: left auto;
+    margin: right auto;
+    border-spacing: 05px;
+    border: 10px solid;
+    padding: 05px;
+    width: 500px; 
+}   
+.tableconfig td {
+    background: burlywood;
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+}
+.table02 {
+    display: table-cell;
+    float: left;
+}
