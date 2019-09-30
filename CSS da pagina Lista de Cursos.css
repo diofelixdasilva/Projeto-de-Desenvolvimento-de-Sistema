@@ -6,7 +6,7 @@ footer { background: rgb(47, 255, 238)
 
 }
 .cabeça {
-    width: 960px;
+    width: 800px;
     margin: auto;
 }
 .conteudo {
@@ -17,9 +17,20 @@ footer { background: rgb(47, 255, 238)
     float: left;
 }
 .texto {
+    text-shadow: 5px 5px 5px white;
+    height: 20px;
+    font-size: 50px;
     display: table-cell;
     float: left;
     width: 100px;
     margin-top: 150px;
     text-align: center;
+}
+
+.primeiroparagrafo{
+    color: orangered
+}
+
+.lista{
+    color: orangered
 }
