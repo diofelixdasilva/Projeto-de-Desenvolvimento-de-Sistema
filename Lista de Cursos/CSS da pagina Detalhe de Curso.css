@@ -1,0 +1,40 @@
+body { background: rgb(190, 32, 129)
+}
+header { background: rgb(102, 50, 187)
+}
+footer { background: rgb(215, 236, 26)
+
+}
+.cabeça {
+    width: 800px;
+    margin: auto;
+}
+.conteudo {
+    display: table;
+}
+.imagem {
+    display: table-cell;
+    float: left;
+}
+.texto {
+    text-shadow: 5px 5px 5px rgb(241, 48, 48);
+    height: 20px;
+    font-size: 50px;
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.titulo{
+    color:rgba(45, 7, 184, 0.801)
+}
+
+.subtitulo{
+    color: rgb(19, 138, 45)
+}
+
+.primeiroparagrafo{
+    color: orangered
+}
