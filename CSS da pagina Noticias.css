@@ -1,0 +1,45 @@
+body { background: rgb(32, 190, 53)
+}
+header { background: rgb(157, 187, 50)
+}
+footer { background: rgb(39, 160, 85)
+
+}
+.cabeça {
+    width: 800px;
+    margin: auto;
+}
+.conteudo {
+    display: table;
+}
+.imagem {
+    display: table-cell;
+    float: left;
+}
+.texto {
+    text-shadow: 5px 5px 5px rgb(241, 48, 48);
+    height: 20px;
+    font-size: 50px;
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.titulo{
+    color:rgba(45, 7, 184, 0.801)
+}
+
+.subtitulo{
+    color: rgb(19, 138, 45)
+}
+
+.primeiroparagrafo{
+    color: orangered
+}
+
+.tamanhodaimagem img{
+    width: 400px;
+    height: 250px;
+

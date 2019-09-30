@@ -1,8 +1,8 @@
-body { background: darkgoldenrod
+body { background: rgb(255, 1, 1)
 }
-header { background: green
+header { background: rgb(27, 201, 27)
 }
-footer { background: greenyellow
+footer { background: rgb(245, 244, 244)
 
 }
 .cabeça {
@@ -26,3 +26,5 @@ footer { background: greenyellow
     margin-top: 150px;
     text-align: center;
 }
+
+
